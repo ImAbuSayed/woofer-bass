@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/woofer-bass/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Woofer Bass](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/woofer-bass/) |
+| **Get License** | [Request Licensing for Woofer Bass](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/woofer-bass/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2e4ad424644138ca513621484457136001e8d7c48d30a7ad5b82987b52c4a9e1` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
