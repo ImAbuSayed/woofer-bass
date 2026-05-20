@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/woofer-bass/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Woofer Bass](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/woofer-bass/) |
+| **Get License** | [Obtain a Music License for Woofer Bass](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/woofer-bass/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaale aasmaan thalle looking so fine
+> Nasha teri akhaan da you're on my mind
+> Hikk vich wajjda ae beating so fast
+> Suroor tera chadheya make it all last
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
